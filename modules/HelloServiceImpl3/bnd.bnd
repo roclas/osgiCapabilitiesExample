@@ -1,0 +1,5 @@
+Bundle-Name: HelloServiceImpl3
+Bundle-SymbolicName: com.roclas.osgi.demo
+Bundle-Version: 1.0.0
+Import-Package: helloservice.api
+Provide-Capability:mycapability,mycapability3

@@ -1,0 +1,4 @@
+Bundle-Name: HelloService
+Bundle-SymbolicName: helloservice
+Bundle-Version: 1.0.0
+Export-Package: helloservice.api

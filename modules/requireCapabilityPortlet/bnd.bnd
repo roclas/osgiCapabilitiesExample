@@ -2,4 +2,4 @@ Bundle-Name: requireCapabilityPortlet
 Bundle-SymbolicName: requireCapabilityPortlet
 Bundle-Version: 1.0.0
 Export-Package: requireCapabilityPortlet.constants
-Require-Capability: mycapability2
+Require-Capability: mycapability7

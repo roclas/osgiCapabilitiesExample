@@ -29,8 +29,8 @@ import requireCapabilityPortlet.constants.RequireCapabilityPortletKeys;
 	service = Portlet.class
 )
 public class RequireCapabilityPortlet extends MVCPortlet {
-	@Reference(target="(implementation=impl1)") 
-	//@Reference
+	//@Reference(target="(implementation=impl1)") 
+	@Reference
 	HelloService helloService;
 	
 	@Override 

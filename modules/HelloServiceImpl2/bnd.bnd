@@ -1,5 +1,5 @@
 Bundle-Name: HelloServiceImpl2
-Bundle-SymbolicName: com.roclas.osgi.demo
+Bundle-SymbolicName: com.roclas.osgi.demo2
 Bundle-Version: 1.0.0
 Import-Package: helloservice.api
 Provide-Capability:mycapability,mycapability2
